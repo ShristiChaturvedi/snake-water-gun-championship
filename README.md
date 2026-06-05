@@ -25,6 +25,11 @@
 
  python main.py
 
+ ## Screenshot
+
+![Game Screenshot](Screenshot.png)
+
 ## Author
 
  Shristi Chaturvedi
+ 
